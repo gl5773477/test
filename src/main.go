@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	println("~ mai 导费==b2===== ~")
+	println("~ mai 8888导费==b2===== ~")
 }
