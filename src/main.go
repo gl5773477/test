@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	println("~ main======b2===== ~")
+	println("~ main===b2===== ~")
 }
