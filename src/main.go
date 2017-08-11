@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	println("~ main==修oi=====offffmafgfgster==b2===== ~")
+	println("~ main=====offffmafgfgster==b2===== ~")
 }
